@@ -1,5 +1,4 @@
 # Mailchimp-API-signUp
 
-simple Mailchimp list using mail champ api
-you need an api key to use it
-here is the exmple web app: https://secret-crag-90531.herokuapp.com/
+Here's how to create a simple Mailchimp list using MailChimp's API
+Here's an example web app: https://secret-crag-90531.herokuapp.com/
